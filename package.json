@@ -1,0 +1,14 @@
+{
+  "name": "Translate",
+  "raw": "translate_skill",
+  "version": "1.0.0",
+  "description":"Translate Everything",
+  "packages":[],
+  "dependencies": [],
+  "author":"Cassim Khouani",
+  "license": "Creative Commons 3.0 France",
+  "navbar":"True",
+  "data":"False",
+  "index":"translate.index",
+  "config":"translate.config"
+}
