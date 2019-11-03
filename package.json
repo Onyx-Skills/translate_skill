@@ -3,7 +3,9 @@
   "raw": "translate_skill",
   "version": "1.0.0",
   "description":"Translate Everything",
-  "packages":[],
+  "packages":[
+    "mtranslate"
+  ],
   "dependencies": [],
   "author":"Cassim Khouani",
   "license": "Creative Commons 3.0 France",
